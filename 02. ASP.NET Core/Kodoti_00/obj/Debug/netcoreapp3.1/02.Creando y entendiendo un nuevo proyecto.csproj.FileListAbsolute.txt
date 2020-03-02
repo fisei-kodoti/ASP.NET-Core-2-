@@ -1,0 +1,19 @@
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.exe
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.deps.json
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.runtimeconfig.json
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.runtimeconfig.dev.json
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.dll
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\bin\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.pdb
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.csprojAssemblyReference.cache
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.MvcApplicationPartsAssemblyInfo.cache
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.AssemblyInfoInputs.cache
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.AssemblyInfo.cs
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.RazorTargetAssemblyInfo.cache
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\staticwebassets\02.Creando y entendiendo un nuevo proyecto.StaticWebAssets.Manifest.cache
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\staticwebassets\02.Creando y entendiendo un nuevo proyecto.StaticWebAssets.xml
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.dll
+D:\Developer\Kodoti\ASP.NET Core 2+\Kodoti_00\obj\Debug\netcoreapp3.1\02.Creando y entendiendo un nuevo proyecto.pdb
